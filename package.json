@@ -1,0 +1,10 @@
+{
+  "name": "firebase-js-sdk-issue-5372",
+  "dependencies": {
+    "firebase": "^8.10.0"
+  },
+  "scripts": {
+    "start": "node --unhandled-rejections=throw ."
+  },
+  "license": "MIT"
+}
